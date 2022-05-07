@@ -17,3 +17,35 @@
 
 
 ![6262](https://user-images.githubusercontent.com/62514703/166312466-309a93b4-dd8a-4b44-ba5a-0fdd0c812c5c.JPG)
+
+
+проделываем предыдущие действия на этой странице и также в html файле находим связь с файлом стилей, который находится в *hidden/file.css*
+
+![26](https://user-images.githubusercontent.com/62514703/167248847-01beb0de-dfaa-49f0-aeae-082cf999b170.JPG)
+
+
+обращаемся к нему и нас снова переносит на новую страницу
+
+![27](https://user-images.githubusercontent.com/62514703/167248904-ac3259a6-df8c-405d-92b2-e2f4c04a04bf.JPG)
+
+
+повторяем те же самые действия...
+и опять находим новый раздел *superhidden*
+
+![28](https://user-images.githubusercontent.com/62514703/167248960-239b3b2f-f854-4d87-8c75-a56c0b64c0d6.JPG)
+
+
+вот что мы имеем в итоге *secret/hidden/superhidden*
+
+
+![29](https://user-images.githubusercontent.com/62514703/167249025-7779ab2f-e78d-4640-bda9-acc34c38389b.JPG)
+
+здесь не закрывая инспектор можно увидеть, что искомый флаг находится в теге заголовка, но покрашен в цвет фона
+
+![30](https://user-images.githubusercontent.com/62514703/167249163-06d49e08-8f66-488d-a5f6-3bf3659e7f82.JPG)
+
+
+копируем, вставляем, получаем легкие 200 баллов
+
+задание простое, требует банальное понимание архитектуры веб-страниц, базовое знание структуры html, css файлов
+
