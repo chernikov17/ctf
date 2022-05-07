@@ -1,2 +1,2 @@
 # ctf
-some things about ctf and more
+somethings about ctf and more
